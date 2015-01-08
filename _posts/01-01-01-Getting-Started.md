@@ -2,5 +2,5 @@
 anchor: getting_started
 ---
 
-# Getting Started {#getting_started_title}
+# စတင်အသုံးပြုခြင်း {#getting_started_title}
 

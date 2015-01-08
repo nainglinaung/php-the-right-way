@@ -1,10 +1,12 @@
 ---
-title:   Use the Current Stable Version (5.6)
+title:   လက်ရှိ stable version ကိုအသုံးပြုပါ (5.6)
 isChild: true
 anchor:  use_the_current_stable_version
 ---
 
-## Use the Current Stable Version (5.6) {#use_the_current_stable_version_title}
+## လက်ရှိ stable version ကိုအသုံးပြုပါ (5.6) {#use_the_current_stable_version_title}
+
+သင် PHP ကိုစတင်ဖြစ်နေပြီဆိုရင် လက်ရှိ stable version [PHP 5.6][php-release] ကိုအသုံးပြုပါ 
 
 If you are getting started with PHP, start with the current stable release of [PHP 5.6][php-release]. PHP has added 
 powerful [new features](#language_highlights) over the last few years. Though the incremental version number difference 

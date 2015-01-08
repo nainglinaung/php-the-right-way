@@ -1,5 +1,8 @@
 # ကြိုဆိုပါတယ်
 
+Web ပေါ်ရှိသတင်းအချက်အလက်များသည်အဟောင်းများတွေအများကြီးရှိပါတယ် အဲ့ဒါတွေက PHP စတင်လေ့လာသူတွေကိုလမ်းမှားအောင် ဦးဆောင်နေပါတယ်၊ နောက်မကောင်းတဲ့အလေ့အကျင့်နဲ့လုံခြုံမှုမရှိတဲ့ code တွေကိုဖြန့်ဝေနေပါတယ်။_PHP: The Right Way_ ကလွယ်ကူစွာဖတ်နိုင်ပါတယ် PHP ရဲ့ လူကြိုက်များတဲ့ coding standards ကိုလည်း လျင်မြန်စွာညွှန်းထားပါတယ။
+
+
 There's a lot of outdated information on the Web that leads new PHP users astray,
 propagating bad practices and insecure code. _PHP: The Right Way_ is an easy-to-read,
 quick reference for PHP popular coding standards, links to authoritative tutorials
@@ -16,9 +19,9 @@ in approach and use-case.
 This is a living document and will continue to be updated with more helpful information
 and examples as they become available.
 
-## Translations
+## ဘာသာပြန်ချက်များ
 
-_PHP: The Right Way_ is translated into many different languages:
+_PHP: The Right Way_ ကိုကွဲပြားခြားနားသောဘာသာစကားအများကြီးသို့ဘာသာပြန်ထားပါတယ်:
 
 * [English](http://www.phptherightway.com)
 * [Bulgarian](http://bg.phptherightway.com/)
@@ -40,9 +43,9 @@ _PHP: The Right Way_ is translated into many different languages:
 * [Turkish](http://hkulekci.github.io/php-the-right-way/)
 * [Ukrainian](http://iflista.github.com/php-the-right-way/)
 
-## How to Contribute
+## အထောက်အကူပြုရန်
 
-Help make this website the best resource for new PHP programmers! [Contribute on GitHub][1]
+ဤ website ကို​​ PHP ပရိုဂရမ်မာတွေအတွက် အကောင်းဆုံး resource ဖြစ်အောင်ကူညီပါ! [Contribute on GitHub][1]
 
 ## Spread the Word!
 
