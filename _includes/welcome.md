@@ -1,6 +1,10 @@
-# ကြိုဆိုပါတယ်
+# Welcome
 
 Web ပေါ်ရှိ PHP သတင်းအချက်အလက်အဟောင်းတွေအများကြီးရှိပါတယ် အဲ့ဒါတွေက PHP စတင်လေ့လာသူတွေကိုလမ်းမှားအောင် ဦးဆောင်နေပါတယ်၊ နောက်မကောင်းတဲ့အလေ့အကျင့်နဲ့လုံခြုံမှုမရှိတဲ့ code တွေကိုဖြန့်ဝေနေပါတယ်။_PHP: The Right Way_ ကလွယ်ကူစွာဖတ်နိုင်ပါတယ် PHP ရဲ့ လူကြိုက်များတဲ့ coding standards ကိုလည်း လျင်မြန်စွာညွှန်းထားပါတယ်။  Web ပေါ်က knowleadge ပေးနိုင်တဲ့ tutorials တွေကိုလည်း link ပေးထားပါတယ် နောက်ပြီးတော့ contributors တွေနားလည်ထားတဲ့ပစ္စုပ္ပန်အချိန်ကအကောင်းဆုံးအလေ့အကျင့်တွေကောပေါ့။
+
+PHP ကိုအသုံးပြုဖို့ရာ canonical နည်းလမ်းမရှိပါဘူး။ဒီ Website ရဲ့ ရည်ရွယ်ချက်က PHP developer အသစ်တွေကို အချို့ topic တွေ သူတို့မရှာဖွေသေးခင် စောစီးစွာမိတ်ဆက်ရန်အတွက်ဖြစ်ပါတယ်၊and aims
+to give seasoned pros some fresh ideas on those topics they've been doing for years
+without ever reconsidering. ဒီ Website ကဘယ် Tools တွေကိုအသုံးပြုရမယ်ဆိုတာကိုလည်းမပြောပါဘူး၊
 
 _There is no canonical way to use PHP_. This website aims to introduce new PHP
 developers to some topics which they may not discover until it is too late, and aims
@@ -12,7 +16,7 @@ in approach and use-case.
 This is a living document and will continue to be updated with more helpful information
 and examples as they become available.
 
-## ဘာသာပြန်ချက်များ
+## Translations
 
 _PHP: The Right Way_ ကိုကွဲပြားခြားနားသောဘာသာစကားအများကြီးသို့ဘာသာပြန်ထားပါတယ်:
 
@@ -36,7 +40,7 @@ _PHP: The Right Way_ ကိုကွဲပြားခြားနားသေ�
 * [Turkish](http://hkulekci.github.io/php-the-right-way/)
 * [Ukrainian](http://iflista.github.com/php-the-right-way/)
 
-## အထောက်အကူပြုရန်
+## How to Contribute
 
 ဤ website ကို​​ PHP ပရိုဂရမ်မာတွေအတွက် အကောင်းဆုံး resource ဖြစ်အောင်ကူညီပါ! [Contribute on GitHub][1]
 
