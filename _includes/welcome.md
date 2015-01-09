@@ -1,13 +1,6 @@
 # ကြိုဆိုပါတယ်
 
-Web ပေါ်ရှိသတင်းအချက်အလက်များသည်အဟောင်းများတွေအများကြီးရှိပါတယ် အဲ့ဒါတွေက PHP စတင်လေ့လာသူတွေကိုလမ်းမှားအောင် ဦးဆောင်နေပါတယ်၊ နောက်မကောင်းတဲ့အလေ့အကျင့်နဲ့လုံခြုံမှုမရှိတဲ့ code တွေကိုဖြန့်ဝေနေပါတယ်။_PHP: The Right Way_ ကလွယ်ကူစွာဖတ်နိုင်ပါတယ် PHP ရဲ့ လူကြိုက်များတဲ့ coding standards ကိုလည်း လျင်မြန်စွာညွှန်းထားပါတယ။
-
-
-There's a lot of outdated information on the Web that leads new PHP users astray,
-propagating bad practices and insecure code. _PHP: The Right Way_ is an easy-to-read,
-quick reference for PHP popular coding standards, links to authoritative tutorials
-around the Web and what the contributors consider to be best practices at the present
-time.
+Web ပေါ်ရှိ PHP သတင်းအချက်အလက်အဟောင်းတွေအများကြီးရှိပါတယ် အဲ့ဒါတွေက PHP စတင်လေ့လာသူတွေကိုလမ်းမှားအောင် ဦးဆောင်နေပါတယ်၊ နောက်မကောင်းတဲ့အလေ့အကျင့်နဲ့လုံခြုံမှုမရှိတဲ့ code တွေကိုဖြန့်ဝေနေပါတယ်။_PHP: The Right Way_ ကလွယ်ကူစွာဖတ်နိုင်ပါတယ် PHP ရဲ့ လူကြိုက်များတဲ့ coding standards ကိုလည်း လျင်မြန်စွာညွှန်းထားပါတယ်။  Web ပေါ်က knowleadge ပေးနိုင်တဲ့ tutorials တွေကိုလည်း link ပေးထားပါတယ် နောက်ပြီးတော့ contributors တွေနားလည်ထားတဲ့ပစ္စုပ္ပန်အချိန်ကအကောင်းဆုံးအလေ့အကျင့်တွေကောပေါ့။
 
 _There is no canonical way to use PHP_. This website aims to introduce new PHP
 developers to some topics which they may not discover until it is too late, and aims
@@ -23,23 +16,23 @@ and examples as they become available.
 
 _PHP: The Right Way_ ကိုကွဲပြားခြားနားသောဘာသာစကားအများကြီးသို့ဘာသာပြန်ထားပါတယ်:
 
-* [English](http://www.phptherightway.com)
-* [Bulgarian](http://bg.phptherightway.com/)
-* [Chinese (Simplified)](http://wulijun.github.com/php-the-right-way)
-* [Chinese (Traditional)](http://laravel-taiwan.github.io/php-the-right-way)
-* [French](http://eilgin.github.io/php-the-right-way/)
-* [German](http://rwetzlmayr.github.io/php-the-right-way/)
-* [Indonesian](http://id.phptherightway.com/)
-* [Italian](http://it.phptherightway.com/)
-* [Japanese](http://ja.phptherightway.com)
-* [Korean](http://wafe.github.io/php-the-right-way/)
+* [အင်္ဂလိပ်](http://www.phptherightway.com)
+* [ဘူဂေးရီးယား](http://bg.phptherightway.com/)
+* [တရုတ် (Simplified)](http://wulijun.github.com/php-the-right-way)
+* [တရုတ် (ရိုးရာ)](http://laravel-taiwan.github.io/php-the-right-way)
+* [ပြင်သစ်](http://eilgin.github.io/php-the-right-way/)
+* [ဂျာမန်](http://rwetzlmayr.github.io/php-the-right-way/)
+* [အင်ဒိုနီးရှား](http://id.phptherightway.com/)
+* [အီတလီ](http://it.phptherightway.com/)
+* [ဂျပန်](http://ja.phptherightway.com)
+* [ကိုရီးယား](http://wafe.github.io/php-the-right-way/)
 * [Polish](http://pl.phptherightway.com/)
-* [Portuguese](http://br.phptherightway.com/)
-* [Romanian](https://bgui.github.io/php-the-right-way/)
-* [Russian](http://getjump.github.io/ru-php-the-right-way)
-* [Slovenian](http://sl.phptherightway.com)
-* [Spanish](http://phpdevenezuela.github.io/php-the-right-way/)
-* [Thai](https://apzentral.github.io/php-the-right-way/)
+* [ပေါ်တူဂီ](http://br.phptherightway.com/)
+* [ရိုမေးနီးယား](https://bgui.github.io/php-the-right-way/)
+* [ရုရှား](http://getjump.github.io/ru-php-the-right-way)
+* [စလိုဗေးနီး](http://sl.phptherightway.com)
+* [စပိန်](http://phpdevenezuela.github.io/php-the-right-way/)
+* [ထိုင်း](https://apzentral.github.io/php-the-right-way/)
 * [Turkish](http://hkulekci.github.io/php-the-right-way/)
 * [Ukrainian](http://iflista.github.com/php-the-right-way/)
 

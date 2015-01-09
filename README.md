@@ -1,6 +1,6 @@
-# PHP: The Right Way
+# PHP: နည်းမှန်လမ်းမှန်
 
-## Overview
+## ခြုံငုံသုံးသပ်ချက်
 
 This is the GitHub Pages repository for the _PHP: The Right Way_ project.
 
@@ -16,7 +16,7 @@ developers know where to find good information!
 
 [See Banner Images](http://www.phptherightway.com/banners.html)
 
-## How to Contribute
+## အထောက်အကူပြုရန်
 
 1. Fork and edit
 2. Optionally install [Ruby](https://rvm.io/rvm/install/) with [Jekyll](https://github.com/mojombo/jekyll/) gem to preview locally
