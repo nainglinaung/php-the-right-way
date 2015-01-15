@@ -32,11 +32,11 @@
         <nav class="site-navigation">
             <div class="build-date">Last Updated: {{ site.time }}</div>
             <ul>
-                <li><a href="/#site-header">ကြိုဆိုပါတယ်</a>
+                <li><a href="/php-the-right-way/#site-header">ကြိုဆိုပါတယ်</a>
                     <ul>
-                        <li><a href="/#translations">ဘာသာပြန်ချက်များ</a></li>
-                        <li><a href="/#how-to-contribute">အထောက်အကူပြုရန်</a></li>
-                        <li><a href="/#spread-the-word">Spread the Word!</a></li>
+                        <li><a href="/php-the-right-way/#translations">ဘာသာပြန်ချက်များ</a></li>
+                        <li><a href="/php-the-right-way/#how-to-contribute">အထောက်အကူပြုရန်</a></li>
+                        <li><a href="/php-the-right-way/#spread-the-word">Spread the Word!</a></li>
                     </ul>
                 </li>
                 {% assign lastIsChild = false %}
@@ -48,7 +48,7 @@
                             {% assign insideSection = false %}
                         {% endif %}
                     {% endif %}
-                    <li><a href="/#{{ post.anchor }}">{{ post.title }}</a>
+                    <li><a href="/php-the-right-way/#{{ post.anchor }}">{{ post.title }}</a>
                     {% if post.isChild %}
                         </li>
                     {% else %}
@@ -59,7 +59,7 @@
                 {% endfor %}
                     </ul>
                 </li>
-                <li><a href="/#site-footer">Credits</a></li>
+                <li><a href="/php-the-right-way/#site-footer">Credits</a></li>
             </ul>
         </nav>
         <div class="site-content">
