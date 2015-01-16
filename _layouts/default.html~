@@ -17,7 +17,6 @@
         <link rel="stylesheet" href="{{ site.baseurl }}styles/print.css" media="print, handheld"/>
         <link rel="stylesheet" href="{{ site.baseurl }}styles/syntax.css"/>
         <link rel="icon" href="{{ site.baseurl }}images/favicon.png" type="image/png"/>
-        <link rel="stylesheet" href='http://mmwebfonts.comquas.com/fonts/?font=myanmar3' />
         <script>
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-362072-7']);
