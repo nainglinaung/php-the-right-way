@@ -21,8 +21,6 @@ FuelPHP, Lithium အစရှိတာတွေကလည်း rules ချမ�
 
 သင့်အနေနဲ့ code တွေကအထက်ဖော်ပြပါ recommendations တွေနဲ့ကိုက်ညီမှူရှိမရှိကို [PHP_CodeSniffer][phpcs] သုံးပြီးcheck နိုင်ပါတယ်၊ နောက်Sublime Text လို code editor မျိုးမှာ code ရေးနေစဉ်အတွင်းမှာဘာတွေမှားလည်းဆိုတာတွေကို real time သိချင်ရင်တော့ [Sublime Text 2][st-cs] plugin ကိုအသုံးပြုနိုင်ပါတယ်။ 
 
-While being newer, it makes great improvements in performance, meaning real-time editor fixing is more fluid.
-
 သင့်အနေနဲ့ အောက်ဖော်ပြပါ tools တစ်ခုကိုအသုံးပြုပြီးတော့ code layout တွေကို အလိုအလျောက် fix လုပ်နိုင်ပါတယ်။ တစ်ခုက Potencier ရဲ့
 [PHP Coding Standards Fixer][phpcsfixer]ပါ၊ အဲ့ဒါက ကောင်းကောင်း test လုပ်ထားတဲ့ codebase တစ်ခုပါ။ အဲ့ဒါက ကြီးတယ်၊ လေးတယ် ဒါပေမယ့်အရမ်းstable ဖြစ်တယ်၊ ကြီးမားတဲ့ project တွေဖြစ်တဲ့ Magento နဲ့ Symfony လို projects ကြီးတွေကတောင်အသုံးပြုတယ်။ နောက်ထက်ရွေးချယ်စရာတစ်ခုကတော့ [php.tools][phptools] ပါ၊ ဒါက [sublime-phpfmt][sublime-phpfmt] plugin အဖြစ်လူသိများပါတယ်။ အသစ်ဖြစ်လာတာနဲ့တစ်ပြိုင်တည်း စွမ်းဆောင်ရည်မှာပိုပြီးကောင်းလာပါတယ်ဒါကဘာကိုဆိုလိုတာလည်းဆိုရင် code ရေးနေစဥ်အတွင်းမှာ editor ကအမှားတွေကို fix ပေးတာက ပိုကောင်းတာပါဘဲ။
 
