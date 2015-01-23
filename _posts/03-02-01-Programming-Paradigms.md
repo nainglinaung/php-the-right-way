@@ -26,7 +26,7 @@ PHP 5.3 (၂၀၀၉နှစ်)ကစလို့ closure အထောက်�
 
 PHP 5.4 မှာတော့ closure တွေကို object တစ်ခုရဲ့ scope အတွင်းမှာပဲ ချိတ်ဆက်ယူနိုင်တဲ့ စွမ်းရည်တွေ၊ anonymous function တွေနဲ့ကြိုက်သလိုအစားထိုး ပြောင်းလဲအသုံးပြုနိုင်အောင် callable တွေအတွက်ပိုမိုကောင်းမွန်တဲ့ အထောက်အပံ့တွေပါလာပါတယ်။
 
-* [PHP နှင့် Function ဗဟိုပြု ပရိုဂရမ်ရေးသားခြင်းအကြောင်းဖတ်ရန်](/pages/Functional-Programming.html)
+* [PHP နှင့် Function ဗဟိုပြု ပရိုဂရမ်ရေးသားခြင်းအကြောင်းဖတ်ရန်](/php-the-right-way/pages/Functional-Programming.html)
 * [Anonymous Functions][anonymous-functions]
 * [Closure class အကြောင်းဖတ်ရန်][closure-class]
 * [Closures RFC အကြောင်းအသေးစိတ်ဖတ်ရန်][closures-rfc]
