@@ -16,9 +16,9 @@ Namespace ကိုအသုံးပြုဖို့ရာ outline တစ်�
 အောက်တိုဘာလ, 2014 ခုနှစ်မှာ PHP-FIG က အရင်က autoloading standard [PSR-0][psr0] ကိုကန့်ကွက်ခဲ့ပါတယ်၊ အဲ့ဒါကို [PSR-4][psr4] နဲ့ replace လုပ်ခဲ့ပါတယ်။ လောလောဆယ်မှာတော့ နှစ်ခုစလုံးကအသုံးပြုလို့ရသေးပါတယ်။ PSR-4 က PHP 5.3 လိုအပ်ပါတယ် နောက်PHP 5.2 နဲ့ develop လုပ်ထားတဲ့ များစွာသော Projects တွေကတော့ PSR-0 ကို implement လုပ်ပြီးအသုံးပြုနေဆဲပါ။ 
 
 
-* [Read about Namespaces][namespaces]
-* [Read about PSR-0][psr0]
-* [Read about PSR-4][psr4]
+* [Namespaces အကြောင်းဖတ်ရန်][namespaces]
+* [PSR-0 အကြောင်းဖတ်ရန်][psr0]
+* [PSR-4 အကြောင်းဖတ်ရန်][psr4]
 
 
 [namespaces]: http://php.net/language.namespaces
